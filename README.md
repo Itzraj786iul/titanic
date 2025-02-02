@@ -14,7 +14,11 @@ Number of siblings/spouses aboard
 Number of parents/children aboard
 Fare price
 🔍 Analysis & Approach
-1.Exploratory Data Analysis (EDA) – Visualizing and understanding dataset distributions
+
+1.Exploratory Data Analysis (EDA) – Visualizing and understanding dataset 
+
 2.Feature Engineering – Selecting and preprocessing important features
+
 3.Model Training – Using Logistic Regression to predict survival chances
+
 4.Evaluation – Checking accuracy, precision, and recall of predictions
